@@ -4,7 +4,7 @@ class Main extends JFrame {
     public Main() {
         setTitle("My App");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(1000, 600);
+        setSize(800, 600);
         setLocationRelativeTo(null);
     }
 
